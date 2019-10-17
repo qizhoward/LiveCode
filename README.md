@@ -12,5 +12,7 @@ LIVECODE
 
 独立水源
 
+bilibili version: 3.10.0.1500
+
 －－－－－－－－－－
 
